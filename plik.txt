@@ -1,2 +1,3 @@
 werja pliku
 zmiana w pliku
+Dodajemy nową eksperymentalną funkcjonalność
